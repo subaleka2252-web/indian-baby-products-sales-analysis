@@ -29,3 +29,11 @@ To analyze Indian baby product sales data and generate meaningful business insig
 ## 📌 Outcome
 
 The analysis transformed sales data into interactive dashboards that helped identify sales trends and product performance.
+
+## 📊 Dashboard Preview
+
+### Executive Overview Dashboard
+![Executive Overview Dashboard](baby-products-executive-overview.png)
+
+### Product & Business Analysis Dashboard
+![Product & Business Analysis Dashboard](baby-products-analysis-dashboard.png)
